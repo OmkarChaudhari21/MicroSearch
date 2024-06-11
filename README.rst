@@ -1,4 +1,5 @@
-microsearch
+MICROSEARCH
+
 A small search library.
 
 Primarily intended to be a learning tool to teach the fundamentals of search.
